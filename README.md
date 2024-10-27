@@ -59,7 +59,7 @@ Clone the Project from GitHub:
     Open your terminal or command prompt
     Navigate to the folder where you want to clone the project.
     Run the following command
-        git clone [Your GitHub Repository Link]
+        git clone https://github.com/ritilbeldar/Vellko-Media-Task.git
         cd [Project Folder Name]
 
 Run with Live Server:
